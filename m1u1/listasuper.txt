@@ -1,3 +1,5 @@
 harina 
 huevos 
 leche 
+chocolate 
+arroz
