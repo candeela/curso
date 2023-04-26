@@ -1,0 +1,27 @@
+h1{
+    background-color: pink;
+    text-align: center;
+    
+}
+h2{
+    background-color: papayawhip;
+    color: palevioletred;
+    width: fit-content;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3{
+    color: palevioletred;
+    background-color: papayawhip;
+    width: fit-content;
+    font-size: large;
+}
+.destacado{
+    font-weight: bold;
+}
+.destacados{
+    color: rgb(255, 151, 168);
+    font-weight: bold;
+}
+input{
+    border: 5px solid  #ff4dd4;
+}
